@@ -7,33 +7,33 @@
 
 ## Sprint 1: April 7 - April 11
 - **Kickoff & Planning**
-  - [ ] Project kickoff meeting
-  - [ ] Define project goals and objectives
+  - [x] Project kickoff meeting
+  - [x] Define project goals and objectives
  
 - **Project Setup**
-- [ ] Create project repository on GitHub
-- [ ] Set up development environment and basic project structure in Visual Studio Code
-- [ ] Write initial README outlining project scope and vision
+- [x] Create project repository on GitHub
+- [x] Set up development environment and basic project structure in Visual Studio Code
+- [x] Write initial README outlining project scope and vision
 
 - **Requirements Gathering**
-- [ ] Research other related repository and clone it to team
+- [x] Research other related repository and clone it to team
 - [ ] Assign open source license
 
 ---
 
 ## Sprint 2: April 11 - April 14
 - **Core Development**
-- [ ] Design and implement core functionalities
-- [ ] Develop key modules/classes
+- [x] Design and implement core functionalities
+- [x] Develop key modules/classes
 - [ ] Integrate external libraries and APIs as needed
 
 - **Testing & Quality Assurance**
-- [ ] Write initial unit tests for core functions
-- [ ] Perform code reviews and refactor as required
+- [x] Write initial unit tests for core functions
+- [x] Perform code reviews and refactor as required
 
 - **Documentation**
-- [ ] Update README with basic usage and installation instructions
-- [ ] Document code structure and module purposes
+- [x] Update README with basic usage and installation instructions
+- [x] Document code structure and module purposes
 
 ---
 
