@@ -7,7 +7,7 @@
 
 ## Sprint 1: April 7 - April 11
 - **Kickoff & Planning**
-  - [] Project kickoff meeting
+  - [x] Project kickoff meeting
   - [x] Define project goals and objectives
  
 - **Project Setup**
