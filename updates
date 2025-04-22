@@ -1,0 +1,10 @@
+Changed from rudimentary text-based model to OpenAI/React langauge system for responsive 
+
+
+python app.py doesnt pull the python app from the right location
+
+
+Added OpenAI key into the env file
+
+Successfully got english-coach-app to run on local server with port 3000
+
