@@ -4,3 +4,5 @@ This is an AI chatbot designed to help adults learn to read better. It will gene
 
 #Update
 Prior research to this AI Chatbot has been found, created by Muhammed Nazeem. Here is the link to his functioning Chatbot is here: https://github.com/n4ze3m/dialoqbase
+
+
